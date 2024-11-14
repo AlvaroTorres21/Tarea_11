@@ -1,0 +1,9 @@
+Nia: 1
+Nombre: Juan Pérez
+Apellidos: Juan Pérez
+Genero: h
+Fecha de Nacimiento: 2000/05/15
+Ciclo: Juan Pérez
+Curso: Juan Pérez
+Grupo: Juan Pérez
+------------%n
